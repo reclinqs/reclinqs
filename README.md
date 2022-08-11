@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reclinqs
-- 👀 I’m interested in software engineering, useful and open source softwares
+- 👀 I’m interested in software engineering, also useful and open source software
 - 🌱 I’m currently learning python and javascript.
 
 <!---
